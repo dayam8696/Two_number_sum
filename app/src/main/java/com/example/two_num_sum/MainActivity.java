@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+
     TextView text;
     EditText n1 , n2;
     Button button;
